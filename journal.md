@@ -4,3 +4,5 @@ I created a repository
 A video game that I enjoy playing is Elden Ring. In this game you are able to chose your own class and create your own character. There are multiple weapons to use and lots of builds to try. The bosses are hard but that's what makes the game good. It has great graphics, the story is interesting, and has lots of content including dlc. 
 # September 13, 2024
 You could've had the instructions on github. I did not encounter any problems.
+# September 17, 2024
+This is a free week.
