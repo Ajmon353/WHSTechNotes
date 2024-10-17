@@ -17,3 +17,7 @@ Computer science helps you do things like send text messages, make videos, and p
 4. Bachelor's degree in software engineering.
 5. Starting your own business.
 6. This job involves a lot of programming and understanding.
+# October 17, 2024
+1. Coding can make it easier to find the problem directly.
+2. Coding can help you learn things quicker.
+3. Coding enhances creativity because it helps you bring things to life.
