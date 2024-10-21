@@ -18,3 +18,6 @@ Computer science helps you do things like send text messages, make videos, and p
 1. Coding can make it easier to find the problem directly.
 2. Coding can help you learn things quicker.
 3. Coding enhances creativity because it helps you bring things to life.
+# October 21, 2024
+Helpful: AI helps gather information quickly and is more accurate.
+Harmful: AI could give falso information or bots could get into a system and leak information.
