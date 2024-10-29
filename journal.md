@@ -24,3 +24,5 @@ Computer science helps you do things like send text messages, make videos, and p
 # October 21, 2024
 Helpful: AI helps gather information quickly and is more accurate.
 Harmful: AI could give falso information or bots could get into a system and leak information.
+# October 29, 2024
+Computer science and technology impact the election process by taking votes in quicker. Results are able to be taken quicker than they would on paper. One challenge could be that every vote isn't properly counted or votes could go towards whp the voter isn't voting for accidently.
