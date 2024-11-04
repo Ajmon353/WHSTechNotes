@@ -23,3 +23,8 @@ Helpful: AI helps gather information quickly and is more accurate.
 Harmful: AI could give falso information or bots could get into a system and leak information.
 # October 29, 2024
 Computer science and technology impact the election process by taking votes in quicker. Results are able to be taken quicker than they would on paper. One challenge could be that every vote isn't properly counted or votes could go towards whp the voter isn't voting for accidently.
+# Novemver 4, 2024
+1. It is important to protect your information because it can be stolen and used against you.
+2. You can have a password set up or a certain way to login to make sure that your information is secure.
+3. No I haven't shared anything too personal.
+4. You can show them pictures or videos of your work.
