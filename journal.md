@@ -31,3 +31,5 @@ Computer science and technology impact the election process by taking votes in q
 2. You can have a password set up or a certain way to login to make sure that your information is secure.
 3. No I haven't shared anything too personal.
 4. You can show them pictures or videos of your work.
+# November 12, 2024
+ A current event that impacts my community is scammers and hackers stealing money and information. This relates to what we are learning because it involves a lot of coding and data collecting. Advancments in technology or computer science could get more protection for information.
