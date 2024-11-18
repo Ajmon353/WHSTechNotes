@@ -30,3 +30,5 @@ Computer science and technology impact the election process by taking votes in q
 4. You can show them pictures or videos of your work.
 # November 12, 2024
  A current event that impacts my community is scammers and hackers stealing money and information. This relates to what we are learning because it involves a lot of coding and data collecting. Advancments in technology or computer science could get more protection for information.
+# November 18, 2024
+Technology makes it easier to grow and produce food. It makes it easier to do things like water, process, and keep the food fresh. Technology makes it more accessible by having ways to calculate how much a certain amount of food is worth. Some negative affects are that prices may seem unfair or not enough food is being processed.
