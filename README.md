@@ -34,3 +34,5 @@ Computer science and technology impact the election process by taking votes in q
 Technology makes it easier to grow and produce food. It makes it easier to do things like water, process, and keep the food fresh. Technology makes it more accessible by having ways to calculate how much a certain amount of food is worth. Some negative affects are that prices may seem unfair or not enough food is being processed.
 # December 2, 2024
 Renewable energy technologies keep us from wasting resources and destroy the enivornment. What concerns me is the thought of running out of energy to reuse. An innovative way this technology could be used are more solar pannels. Ethical considerations that might need to be addressed as this technology evolves is the amount of resources available.
+# December 10, 2024
+Brain rot means thing that are affecting your mind and how you act. Lore connects to my expereince to technology by explaining the origins of things I want to learn about. Yes it is possible to balance meaningful engangment with technology while avoiding brain rot. You can do this by taking a break every now and then.
