@@ -37,4 +37,4 @@ Renewable energy technologies keep us from wasting resources and destroy the eni
 # December 10, 2024
 Brain rot means thing that are affecting your mind and how you act. Lore connects to my expereince to technology by explaining the origins of things I want to learn about. Yes it is possible to balance meaningful engangment with technology while avoiding brain rot. You can do this by taking a break every now and then.
 # December 16, 2024
-YESSSSSS
+YES
