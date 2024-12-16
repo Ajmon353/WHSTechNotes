@@ -39,3 +39,5 @@ Technology makes it easier to grow and produce food. It makes it easier to do th
 Renewable energy technologies keep us from wasting resources and destroy the enivornment. What concerns me is the thought of running out of energy to reuse. An innovative way this technology could be used are more solar pannels. Ethical considerations that might need to be addressed as this technology evolves is the amount of resources available.
 # December 10, 2024
 Brain rot means thing that are affecting your mind and how you act. Lore connects to my expereince to technology by explaining the origins of things I want to learn about. Yes it is possible to balance meaningful engangment with technology while avoiding brain rot. You can do this by taking a break every now and then.
+# December 16, 2024
+YESSSSSSS
