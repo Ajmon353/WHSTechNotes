@@ -42,3 +42,5 @@ YES
 1. I enjoy being able to play games and code. How often we get tickets could be improved.
 2. I would like to work more on gaming related topics.
 3. I am interested in programming and graphic design.
+# January 13, 2025
+I think the shift will help get work done quicker. I think AI tools will enhane opportunities for workers because it will make the tools they already have better. To prepare myself for a career in a rapidly changing job market I would have a backup option incase anything happens.
