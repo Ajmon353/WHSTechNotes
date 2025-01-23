@@ -47,3 +47,5 @@ YES
 3. I am interested in programming and graphic design.
 # January 13, 2025
 I think the shift will help get work done quicker. I think AI tools will enhane opportunities for workers because it will make the tools they already have better. To prepare myself for a career in a rapidly changing job market I would have a backup option incase anything happens.
+# January 23, 2025
+Government intervention can impact technology companies negatively depending on what they do. Users can lose saved data that they can't get back if a site or app is banned. Companies could address security concerns by improving how your information is saved and keep it more secure. If I was a developer a feature I would make to improve privacy is to make information like your real name private. Lessons I could take from this is to make sure any things I make is saved in a secure place.
