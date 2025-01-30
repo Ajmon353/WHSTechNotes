@@ -52,4 +52,7 @@ Government intervention can impact technology companies negatively depending on 
 # January 27, 2025
 | Name | Car | Mistake|
 | -----|-----|--------|
-|Jimmy|
+|Jimmy|Sierra|drilled hole|
+|Kayla|toyota|wrong problem|
+|Bart|Honda|Left stains|
+|Harrison| Forester| Left cap off|
