@@ -56,3 +56,5 @@ Government intervention can impact technology companies negatively depending on 
 |Kayla|toyota|wrong problem|
 |Bart|Honda|Left stains|
 |Harrison| Forester| Left cap off|
+# February 3, 2025
+Cybersecurity should be a main priority because the pilot could be hacked or something could get jammed because it isn't secure enough. Predictive analytics and data is also important because being able to predict accidents and crashs would help the pilot find alternative routes or not go at all until it is safe.
