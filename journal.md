@@ -58,3 +58,8 @@ Government intervention can impact technology companies negatively depending on 
 |Harrison| Forester| Left cap off|
 # February 3, 2025
 Cybersecurity should be a main priority because the pilot could be hacked or something could get jammed because it isn't secure enough. Predictive analytics and data is also important because being able to predict accidents and crashs would help the pilot find alternative routes or not go at all until it is safe.
+# February 11, 2025
+1. Features my application would include are the ability to see player's scores and how useful they are in their position.
+2. Data tables and graphs.
+3. Algorithms help analyze the data so that coaches can know what plays are better and worse fro the team.
+4. Graphs about touchdowns, blocks, interceptions, yards, and plays.
