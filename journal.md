@@ -63,3 +63,5 @@ Cybersecurity should be a main priority because the pilot could be hacked or som
 2. Data tables and graphs.
 3. Algorithms help analyze the data so that coaches can know what plays are better and worse fro the team.
 4. Graphs about touchdowns, blocks, interceptions, yards, and plays.
+# February 18, 2025
+The most interesting thing I learned is how your aim works in marvel rivals. I learned this from a youtube video.
