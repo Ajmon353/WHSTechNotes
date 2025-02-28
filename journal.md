@@ -65,3 +65,5 @@ Cybersecurity should be a main priority because the pilot could be hacked or som
 4. Graphs about touchdowns, blocks, interceptions, yards, and plays.
 # February 18, 2025
 The most interesting thing I learned is how your aim works in marvel rivals. I learned this from a youtube video.
+# February 28, 2025
+Sland words can be added to dictionaries. Some benefits are that it will be easier to communicate and understand since a lot of big words aren't used. It is best left informal. Misunderstandings might upset the youth and leave them confused.
