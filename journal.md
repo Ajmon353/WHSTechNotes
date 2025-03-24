@@ -69,3 +69,5 @@ The most interesting thing I learned is how your aim works in marvel rivals. I l
 Sland words can be added to dictionaries. Some benefits are that it will be easier to communicate and understand since a lot of big words aren't used. It is best left informal. Misunderstandings might upset the youth and leave them confused.
 # March 17, 2025
 I used youtube, tiktok, and my playstation the most during spring break. It kept me entertained and kept me from being bored. I can connect youtube and different systems in games to class.
+# March 24, 2025
+Technological advancements influenced my perspective on the tournament by giving me a better view of the game and what goes on. AI predictions can detract predidctability because some people like to not know what's going to happen. Social media platforms and streaming services help keep others connected to March Madness and they get to see others opinions.
