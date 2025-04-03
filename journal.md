@@ -71,3 +71,9 @@ Sland words can be added to dictionaries. Some benefits are that it will be easi
 I used youtube, tiktok, and my playstation the most during spring break. It kept me entertained and kept me from being bored. I can connect youtube and different systems in games to class.
 # March 24, 2025
 Technological advancements influenced my perspective on the tournament by giving me a better view of the game and what goes on. AI predictions can detract predidctability because some people like to not know what's going to happen. Social media platforms and streaming services help keep others connected to March Madness and they get to see others opinions.
+# April 4, 2025
+1.Physically: good, Mentally, emotionally: tired and stressed
+2. Tests
+3. Play video games or watch tv.
+4. Pass all my ap exams. I will study and keep my grades up.
+5. My mom because she is very understanding and is always there for me.
