@@ -77,3 +77,5 @@ Technological advancements influenced my perspective on the tournament by giving
 3. Play video games or watch tv.
 4. Pass all my ap exams. I will study and keep my grades up.
 5. My mom because she is very understanding and is always there for me.
+# April 7, 2025
+AI can help you study and stay organized for tests like STAAR by giving you quizs and reviews on the topic. The most useful feature would be instant feedback and an explanation on why the question is right or wrong.
