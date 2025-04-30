@@ -82,6 +82,6 @@ AI can help you study and stay organized for tests like STAAR by giving you quiz
 # April 28, 2025
 | Name | Flavor | Occasion | Price|
 | ---- | ------ | -------- | ---- |
-|Sally |
-|Micheal |
-|Emma |
+|Sally |carrot |birthday| $39.00|
+|Micheal |chocolate |graduation |$35.00|
+|Emma |vanilla |farewell party |$37.00 |
