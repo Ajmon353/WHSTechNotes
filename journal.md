@@ -89,3 +89,5 @@ AI can help you study and stay organized for tests like STAAR by giving you quiz
 1. I think it is possible if the 100 men have a proper cordinated plan.
 2. I think its ok to make a challenge like this go viral as long as people don't take it seriously and actually try it.
 3. This says that trends tend to spread quickly among all media platforms.
+# May 13, 2025
+Trends that put people and property at risk should not be performed near people and should be done in a safer enviornment or not done at all. We have responsibilities to keep school property in good condition or you have to pay for it. People who treat this behavior as a joke should be shown what happens to people who do things like this such as where they end up.
