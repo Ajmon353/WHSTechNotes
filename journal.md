@@ -91,3 +91,5 @@ AI can help you study and stay organized for tests like STAAR by giving you quiz
 3. This says that trends tend to spread quickly among all media platforms.
 # May 13, 2025
 Trends that put people and property at risk should not be performed near people and should be done in a safer enviornment or not done at all. We have responsibilities to keep school property in good condition or you have to pay for it. People who treat this behavior as a joke should be shown what happens to people who do things like this such as where they end up.
+# May 20, 2025
+Yes
